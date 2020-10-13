@@ -1,3 +1,6 @@
+/**
+ * This is a class that simulates threads
+ */
 public class Job implements Runnable {
   private int jobNumber;
 
